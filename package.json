@@ -1,0 +1,28 @@
+{
+  "name": "test-bili-del",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bilibili.js",
+  "scripts": {
+    "dev": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "commander": "^4.1.1",
+    "fluent-ffmpeg": "^2.1.2",
+    "progress": "^2.0.3",
+    "rimraf": "^3.0.2",
+    "typescript": "^4.2.3"
+  },
+  "devDependencies": {
+    "@types/fluent-ffmpeg": "^2.1.17",
+    "@types/node": "^14.14.37",
+    "@types/progress": "^2.0.3",
+    "@types/rimraf": "^3.0.0",
+    "ts-node": "^9.1.1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
